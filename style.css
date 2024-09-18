@@ -1,0 +1,88 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: gilroy;
+}
+html,body{
+  width: 100%;
+  height: 100%;
+  background-color: rgb(16, 16, 16);
+}
+/* #box1{
+  width: 800px;
+  height:30vh;
+  color: white;
+  font-size: 50px;
+  margin-top: 20%;
+  background-color: chocolate; 
+}
+h1{
+  color: rgb(238, 175, 79);
+}
+#cont1{
+  width: 200px;
+  height: 150px;
+  background-color: #45f;
+}
+#cont2{
+  width: 200px;
+  height: 150px;
+  background-color: rgb(217, 127, 109);
+}
+#cont3{
+  width: 200px;
+  height: 150px;
+  background-color: rgb(233, 214, 93);
+} */
+
+ /* #nav{ */
+  /* background-color: rgb(161, 161, 227); */
+  /* display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+  color: rgb(161, 161, 227);
+}
+#part2{
+  display: flex;
+  gap: 50px;
+}
+h1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 70px;
+  color: rgb(161, 161, 227);
+  white-space: nowrap;
+} */ 
+#page1{
+ width: 100%;
+ height: 100vh;
+ background-color: lightblue;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+#page2{
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(69, 191, 232);
+  display: flex;
+ align-items: center;
+ justify-content: center;
+ }
+#page3{
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(15, 173, 226);
+  display: flex;
+ align-items: center;
+ justify-content: center;
+}
+#box{
+  height: 200px;
+  width: 200px;
+  background-color: lightgreen;
+}
